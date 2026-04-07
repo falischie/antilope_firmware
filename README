@@ -5,8 +5,8 @@ Power-up your antilope while holding the grey button on the side
 of the usb port, hold for 1-2 seconds, then release it.
 Antilope will appear as a usb device, drag and drop the .uf2
 firmware file.
-The usb device will eject on its own, you can now uplug the usb
-micro cable.
+The usb device will eject on its own, you can now uplug the micro usb
+cable.
 
 Hail the donut,
 MRC
